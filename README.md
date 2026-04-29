@@ -20,6 +20,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-04-29-파이썬-변수-기초-개념-정리](python/2026-04-29-파이썬-변수-기초-개념-정리.md)
+
 - [2026-04-29-ML-백엔드에서의-Garbage-Collection-이슈](python/2026-04-29-ML-백엔드에서의-Garbage-Collection-이슈.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
