@@ -36,6 +36,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-04-29-주요-LLM-기반-AI-에이전트-특징-및-API-비교](ai-agent/2026-04-29-주요-LLM-기반-AI-에이전트-특징-및-API-비교.md)
+
 - [2026-04-29-AI-Agent-모델-및-API-키-학습](ai-agent/2026-04-29-AI-Agent-모델-및-API-키-학습.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
